@@ -6,8 +6,8 @@ metadata:
 data:
   index.html: |
     <html>
-    <h1> This is nginx server header</h1>
+    <h1> This is header</h1>
     <body>
-    This is Nginx Server Body
+    This is Body
     </body>
     </html>
